@@ -1,5 +1,7 @@
 {
   "name": "FingerPr",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
